@@ -45,19 +45,19 @@ Busco criar soluções que unam **IA + RPA**, tornando os robôs mais **intelige
 
 </div>
 
-- 🔹 **[Cnd_regex](https://github.com/nightreign/Cnd_regex)**  
+-  [Cnd_regex](https://github.com/nightreign/Cnd_regex)**  
 Automação de emissão de CNDs utilizando **Selenium + Regex** para extração de informações.  
 
-- 🔹 **[Nova_Branch-Cnd_IA-](https://github.com/nightreign/Nova_Branch-Cnd_IA-)**  
+- [Nova_Branch-Cnd_IA-](https://github.com/nightreign/Nova_Branch-Cnd_IA-)**  
 Versão evoluída do robô de CNDs, agora utilizando **IA e OCR** no lugar de regex para leitura e análise inteligente.  
 
-- 🔹 **[Robo_MQB_TV](https://github.com/nightreign/Robo_MQB_TV)**  
+- [Robo_MQB_TV](https://github.com/nightreign/Robo_MQB_TV)**  
 Automação de dashboards de produção (**MQB TV**) com **Playwright + PyAutoGUI**, focado em monitoramento contínuo.  
 
-- 🔹 **[Indicador_Volvo](https://github.com/nightreign/Indicador_Volvo)**  
+- [Indicador_Volvo](https://github.com/nightreign/Indicador_Volvo)**  
 Robô que acessa portais da **Volvo**, gera relatórios em **PDF** e envia notificações e arquivos pelo **Telegram Bot**.  
 
-- 🔹 **[Pyautogui_excel_automatico](https://github.com/nightreign/Pyautogui_excel_automatico)**  
+- [Pyautogui_excel_automatico](https://github.com/nightreign/Pyautogui_excel_automatico)**  
 Automação de planilhas Excel com **PyAutoGUI**, leitura de dados e preenchimento automático em sistemas.  
 
 ---
