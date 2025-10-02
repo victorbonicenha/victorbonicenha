@@ -6,11 +6,11 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou o Victor  
+# 🚀 Bem-vindo ao meu GitHub
 
 </div>
 
-💻 Estudante de **Engenharia da Computação** e desenvolvedor focado em **RPA (Robotic Process Automation)**, **Python** e **automação de processos**.  
+💻 Eu sou um estudante de **Engenharia da Computação** e desenvolvedor focado em **RPA (Robotic Process Automation)**, **Python** e **automação de processos**.  
 🚀 Atualmente trabalho com **Selenium, Playwright, PyAutoGUI, Bancos de Dados (SQL Server)** e integração com **APIs e Telegram Bots**.  
 🤖 Também estou evoluindo no uso de **Inteligência Artificial (IA)** para automação e extração de informações.  
 
