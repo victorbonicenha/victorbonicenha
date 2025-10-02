@@ -10,9 +10,9 @@
 
 </div>
 
-💻 Eu sou um estudante de **Engenharia da Computação** e desenvolvedor focado em **RPA (Robotic Process Automation)**, **Python** e **automação de processos**.  
-🚀 Atualmente trabalho com **Selenium, Playwright, PyAutoGUI, Bancos de Dados (SQL Server)** e integração com **APIs e Telegram Bots**.  
-🤖 Também estou evoluindo no uso de **Inteligência Artificial (IA)** para automação e extração de informações.  
+💻 Eu sou um estudante de Engenharia da Computação e desenvolvedor focado em RPA (Robotic Process Automation), Python e na aplicação de Inteligência Artificial (IA) para tornar automações mais inteligentes e eficientes.                                                   
+🚀 Atualmente trabalho com Selenium, Playwright, PyAutoGUI, Bancos de Dados (SQL Server) e integração com APIs e Telegram Bots.                         
+🤖 Estou evoluindo no uso de IA para análise de dados e OCR, ampliando as possibilidades de automação.
 
 ---
 <div align="center">
