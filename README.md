@@ -1,6 +1,6 @@
 ## 🎴 Banner
 <div align="center">
-  <img src="https://raw.githubusercontent.com/victorbonicenha/victorbonicenha/26563cd220d1333bf94ac955da907aa6f5cf1dc6/banner%20rpa%20chat%20roxo.png" alt="Banner RPA Chat Roxo" width="100%">
+  <img src="https://raw.githubusercontent.com/victorbonicenha/victorbonicenha/main/banner%20rpa%20chat%20roxo.png" width="1920" height="600">
 </div>
 
 ---
@@ -66,7 +66,7 @@
 
 ## 🎮 Extra
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100%">
 </div>
 
 ---
