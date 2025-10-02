@@ -6,7 +6,7 @@
 ---
 
 ## 🎴 Banner
-![Banner](https://i.imgur.com/9b0j9ht.png)
+
 
 ---
 
@@ -25,4 +25,4 @@
 ---
 
 ## 🎮 Extra
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-sunset.gif" width="400" alt="gif anime">
+
