@@ -23,8 +23,10 @@
 
 Focado em **aprimorar conhecimentos e práticas em Inteligência Artificial (IA)**, explorando cada vez mais **integrações diversificadas com RPA, automação de processos e análise de dados**.  
 Busco criar soluções que unam **IA + RPA**, tornando os robôs mais **inteligentes, autônomos e eficientes**.  
+Além disso, pretendo **aprofundar meus estudos em desenvolvimento front-end**, criando uma base sólida para atuar de forma completa tanto no **back-end quanto no front-end**.  
 
 ---
+
 <div align="center">
   
 # 🛠️ Tecnologias
