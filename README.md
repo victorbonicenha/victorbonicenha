@@ -1,11 +1,12 @@
+## 🎴 Banner
+
+
+
+---
 # Oi, eu sou o Victor 👋
 
 💻 Estudante de Engenharia da Computação  
 🤖 Focado em Python, RPA e IA  
-
----
-
-## 🎴 Banner
 
 ---
 
