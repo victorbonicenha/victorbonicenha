@@ -45,26 +45,21 @@ Busco criar soluções que unam **IA + RPA**, tornando os robôs mais **intelige
 
 </div>
 
--  [Cnd_regex](https://github.com/nightreign/Cnd_regex):
-Automação de emissão de CNDs utilizando **Selenium + Regex** para extração de informações.  
+-  [Cnd_regex](https://github.com/nightreign/Cnd_regex): Automação de emissão de CNDs utilizando **Selenium + Regex** para extração de informações.  
 
-- [Nova_Branch-Cnd_IA-](https://github.com/nightreign/Nova_Branch-Cnd_IA-):  
-Versão evoluída do robô de CNDs, agora utilizando **IA e OCR** no lugar de regex para leitura e análise inteligente.  
+- [Nova_Branch-Cnd_IA-](https://github.com/nightreign/Nova_Branch-Cnd_IA-): Versão evoluída do robô de CNDs, agora utilizando **IA e OCR** no lugar de regex para leitura e análise inteligente.  
 
-- [Robo_MQB_TV](https://github.com/nightreign/Robo_MQB_TV):  
-Automação de dashboards de produção (**MQB TV**) com **Playwright + PyAutoGUI**, focado em monitoramento contínuo.  
+- [Robo_MQB_TV](https://github.com/nightreign/Robo_MQB_TV): Automação de dashboards de produção (**MQB TV**) com **Playwright + PyAutoGUI**, focado em monitoramento contínuo.  
 
-- [Indicador_Volvo](https://github.com/nightreign/Indicador_Volvo): 
-Robô que acessa portais da **Volvo**, gera relatórios em **PDF** e envia notificações e arquivos pelo **Telegram Bot**.  
+- [Indicador_Volvo](https://github.com/nightreign/Indicador_Volvo): Robô que acessa portais da **Volvo**, gera relatórios em **PDF** e envia notificações e arquivos pelo **Telegram Bot**.  
 
-- [Pyautogui_excel_automatico](https://github.com/nightreign/Pyautogui_excel_automatico): 
-Automação de planilhas Excel com **PyAutoGUI**, leitura de dados e preenchimento automático em sistemas.  
+- [Pyautogui_excel_automatico](https://github.com/nightreign/Pyautogui_excel_automatico): Automação de planilhas Excel com **PyAutoGUI**, leitura de dados e preenchimento automático em sistemas.  
 
 ---
+
 <div align="center">
   
 ## 📫 Contatos
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-bonicenha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorbonicenha05@gmail.com)
@@ -85,8 +80,6 @@ Automação de planilhas Excel com **PyAutoGUI**, leitura de dados e preenchimen
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-
 
 ---
 
