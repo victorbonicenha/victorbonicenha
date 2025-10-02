@@ -6,7 +6,6 @@
 ---
 
 ## 🎴 Banner
-![Banner](https://i.imgur.com/9b0j9ht.png)
 
 ---
 
@@ -28,6 +27,3 @@
 ![RPA](https://img.shields.io/badge/RPA-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ---
-
-## 🎮 Extra
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-sunset.gif" width="400" alt="gif anime">
