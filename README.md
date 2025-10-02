@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/victorbonicenha/victorbonicenha/main/banner%20rpa%20chat%20roxo.png" width="1920" height="600">
+  <img src="https://raw.githubusercontent.com/victorbonicenha/victorbonicenha/main/banner%20rpa%20chat%20roxo.png" width="1920" height="400">
 </div>
 
 ---
@@ -80,6 +80,9 @@ Automação de planilhas Excel com **PyAutoGUI**, leitura de dados e preenchimen
   
 </div>
 
+---
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> 
 
 ---
 ⭐ 🌙 🚀
