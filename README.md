@@ -1,6 +1,8 @@
 ## 🎴 Banner
 
-![Banner RPA](https://raw.githubusercontent.com/victorbonicenha/victorbonicenha/8758c80c2fe0f633897a2cfc1ca9245acd6e02ec/banner%20rpa.jpg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/victorbonicenha/victorbonicenha/26563cd220d1333bf94ac955da907aa6f5cf1dc6/banner%20rpa%20chat%20roxo.png" alt="Banner RPA Chat Roxo" width="100%">
+</div>
 
 ---
 # Oi, eu sou o Victor 👋
