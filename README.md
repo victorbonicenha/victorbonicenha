@@ -1,4 +1,3 @@
-## 🎴 Banner
 <div align="center">
   <img src="https://raw.githubusercontent.com/victorbonicenha/victorbonicenha/main/banner%20rpa%20chat%20roxo.png" width="1920" height="600">
 </div>
