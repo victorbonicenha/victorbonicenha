@@ -19,7 +19,7 @@
 ## 💡 Sobre Mim
 - 🎓 Estudante de Engenharia da Computação  
 - 🤖 Atuo com RPA e automação de processos em Python  
-- 📊 Interesse em Inteligência Artificial aplicada a negócios e dados  
+- 📊 Interesse em Integração de IA com RPA
 - 🚀 Sempre aprendendo, testando e criando novos projetos
 
 ---
