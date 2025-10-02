@@ -1,6 +1,6 @@
 ## 🎴 Banner
 
-
+![Banner](https://raw.githubusercontent.com/victorbonicenha/victorbonicenha/a37d888f27abe85030b21a9ea4f8a5a2a846edf4/Banner%20chat.png)
 
 ---
 # Oi, eu sou o Victor 👋
