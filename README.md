@@ -1,16 +1,20 @@
-## Hi there 👋
+Oi, eu sou o Victor 👋
 
-<!--
-**victorbonicenha/victorbonicenha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia da Computação  
+🤖 Focado em Python, RPA e IA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![victorbonicenha's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbonicenha&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+
+---
