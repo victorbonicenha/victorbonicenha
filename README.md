@@ -1,7 +1,12 @@
-Oi, eu sou o Victor 👋
+# Oi, eu sou o Victor 👋
 
 💻 Estudante de Engenharia da Computação  
-🤖 Focado em Python, RPA e IA
+🤖 Focado em Python, RPA e IA  
+
+---
+
+## 🎴 Banner
+![Banner](https://i.imgur.com/SEULINKAQUI.png)
 
 ---
 
@@ -18,3 +23,6 @@ Oi, eu sou o Victor 👋
 ![RPA](https://img.shields.io/badge/RPA-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ---
+
+## 🎮 Extra
+<img src="https://i.imgur.com/SEUGIF.gif" width="300" alt="gif">
