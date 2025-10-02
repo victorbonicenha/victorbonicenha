@@ -6,12 +6,17 @@
 ---
 
 ## 🎴 Banner
-
+![Banner](https://i.imgur.com/9b0j9ht.png)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 ![victorbonicenha's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbonicenha&show_icons=true&theme=radical)
+
+---
+
+## 📚 Linguagens Mais Usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbonicenha&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -25,4 +30,4 @@
 ---
 
 ## 🎮 Extra
-
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-sunset.gif" width="400" alt="gif anime">
