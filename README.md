@@ -7,66 +7,66 @@
 
 <div align="center">
 
-# 👋 Oi, eu sou o Victor  
-
-💻 Estudante de Engenharia da Computação  
-🤖 Focado em Python, RPA e IA  
+# 👋 Olá, eu sou o Victor  
 
 </div>
 
----
-
-## 💡 Sobre Mim
-- 🎓 Estudante de Engenharia da Computação  
-- 🤖 Atuo com RPA e automação de processos em Python  
-- 📊 Interesse em Integração de IA com RPA
-- 🚀 Sempre aprendendo, testando e criando novos projetos
+💻 Estudante de **Engenharia da Computação** e desenvolvedor focado em **RPA (Robotic Process Automation)**, **Python** e **automação de processos**.  
+🚀 Atualmente trabalho com **Selenium, Playwright, PyAutoGUI, Bancos de Dados (SQL Server)** e integração com **APIs e Telegram Bots**.  
+🤖 Também estou evoluindo no uso de **Inteligência Artificial (IA)** para automação e extração de informações.  
 
 ---
-
-## 📊 Estatísticas do GitHub
 <div align="center">
 
-![victorbonicenha's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbonicenha&show_icons=true&theme=radical)
+# 🎯 Objetivo
 
 </div>
 
----
-
-## 📚 Linguagens Mais Usadas
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbonicenha&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+Focado em **aprimorar conhecimentos e práticas em Inteligência Artificial (IA)**, explorando cada vez mais **integrações diversificadas com RPA, automação de processos e análise de dados**.  
+Busco criar soluções que unam **IA + RPA**, tornando os robôs mais **inteligentes, autônomos e eficientes**.  
 
 ---
-
-## 🏆 Troféus do GitHub
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=victorbonicenha&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🚀 Tecnologias
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![RPA](https://img.shields.io/badge/RPA-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-
-</div>
-
----
-
-## 📫 Contato
 <div align="center">
   
+# 🛠️ Tecnologias
+
+</div>
+
+- 🐍 Python  
+- 🌐 Selenium | Playwright | Web Scraping  
+- 📊 SQL Server | Bancos de Dados  
+- 📩 Telegram Bots | Integração de APIs  
+- 🔐 Anti-Captcha API | OCR (EasyOCR)  
+- 🤖 Inteligência Artificial (OpenAI)  
+
+---
+<div align="center">
+  
+## 📌 Projetos em Destaque  
+
+</div>
+
+- 🔹 **[Cnd_regex](https://github.com/nightreign/Cnd_regex)**  
+Automação de emissão de CNDs utilizando **Selenium + Regex** para extração de informações.  
+
+- 🔹 **[Nova_Branch-Cnd_IA-](https://github.com/nightreign/Nova_Branch-Cnd_IA-)**  
+Versão evoluída do robô de CNDs, agora utilizando **IA e OCR** no lugar de regex para leitura e análise inteligente.  
+
+- 🔹 **[Robo_MQB_TV](https://github.com/nightreign/Robo_MQB_TV)**  
+Automação de dashboards de produção (**MQB TV**) com **Playwright + PyAutoGUI**, focado em monitoramento contínuo.  
+
+- 🔹 **[Indicador_Volvo](https://github.com/nightreign/Indicador_Volvo)**  
+Robô que acessa portais da **Volvo**, gera relatórios em **PDF** e envia notificações e arquivos pelo **Telegram Bot**.  
+
+- 🔹 **[Pyautogui_excel_automatico](https://github.com/nightreign/Pyautogui_excel_automatico)**  
+Automação de planilhas Excel com **PyAutoGUI**, leitura de dados e preenchimento automático em sistemas.  
+
+---
+<div align="center">
+  
+## 📫 Contatos
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-bonicenha)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorbonicenha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorbonicenha05@gmail.com)
@@ -75,11 +75,12 @@
 
 ---
 
-## 🎮 Extra
 <div align="center">
+  
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100%">
+  
 </div>
 
----
 
+---
 ⭐ 🌙 🚀
