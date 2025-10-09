@@ -47,7 +47,7 @@ Além disso, pretendo **aprofundar meus estudos em desenvolvimento front-end**, 
 
 </div>
 
--  [Cnd_regex](https://github.com/nightreign/Cnd_regex): Automação de emissão de CNDs utilizando **Selenium + Regex** para extração de informações.  
+- [Cnd_regex](https://github.com/nightreign/Cnd_regex): Automação de emissão de CNDs utilizando **Selenium + Regex** para extração de informações.  
 
 - [Nova_Branch-Cnd_IA-](https://github.com/nightreign/Nova_Branch-Cnd_IA-): Versão evoluída do robô de CNDs, agora utilizando **IA e OCR** no lugar de regex para leitura e análise inteligente.  
 
@@ -56,6 +56,9 @@ Além disso, pretendo **aprofundar meus estudos em desenvolvimento front-end**, 
 - [Indicador_Volvo](https://github.com/nightreign/Indicador_Volvo): Robô que acessa portais da **Volvo**, gera relatórios em **PDF** e envia notificações e arquivos pelo **Telegram Bot**.  
 
 - [Pyautogui_excel_automatico](https://github.com/nightreign/Pyautogui_excel_automatico): Automação de planilhas Excel com **PyAutoGUI**, leitura de dados e preenchimento automático em sistemas.  
+
+- [Treino_OpenIA](https://github.com/nightreign/Treino_OpenIA): Automação **inteligente de Certidões de Dívida Ativa** unindo **Selenium + OpenAI + LangGraph + LangSmith**.  
+O robô acessa o portal da PGE-SP, resolve CAPTCHAs, baixa as certidões e utiliza **IA para extrair automaticamente informações fiscais** (data, validade e horário) direto dos PDFs, com rastreamento e orquestração em tempo real via **LangGraph** e **LangSmith**.
 
 ---
 
