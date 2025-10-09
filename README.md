@@ -38,7 +38,7 @@ Além disso, pretendo **aprofundar meus estudos em desenvolvimento front-end**, 
 - 📊 SQL Server | Bancos de Dados  
 - 📩 Telegram Bots | Integração de APIs  
 - 🔐 Anti-Captcha API | OCR (EasyOCR)  
-- 🤖 Inteligência Artificial (OpenAI)  
+- 🧠 IA e Automação Inteligente (OpenAI, LangChain, LangGraph, LangSmith)
 
 ---
 <div align="center">
