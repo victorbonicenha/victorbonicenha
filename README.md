@@ -10,9 +10,9 @@
 
 </div>
 
-💻 Eu sou um estudante de Engenharia da Computação e desenvolvedor focado em RPA (Robotic Process Automation), Python e na aplicação de Inteligência Artificial (IA) para tornar automações mais inteligentes e eficientes.                                                   
-🚀 Atualmente trabalho com Selenium, Playwright, PyAutoGUI, Bancos de Dados (SQL Server) e integração com APIs e Telegram Bots.                         
-🤖 Estou aprofundando meus estudos em LangChain, LangGraph, LlamaIndex e LangSmith, explorando como unir RPA + IA para desenvolver robôs autônomos capazes de tomar decisões, analisar erros e se adaptar a cenários imprevistos.
+💻 Desenvolvedor focado em **Automação e Dados**, criando soluções de **RPA em Python** que coletam, validam, processam e persistem dados em ambientes reais de produção.                                                   
+⚙️ Trabalho com **Selenium, Playwright, PyAutoGUI**, bancos de dados (**SQL Server**) e integrações via **APIs e Telegram Bots**, aplicando boas práticas de monitoramento, logs e rastreabilidade.                       
+🤖 Utilizo **IA aplicada (LangChain, LangGraph, LlamaIndex, LangSmith)** para enriquecer pipelines de automação, extraindo informações, validando dados e tornando processos mais inteligentes e resilientes.
 
 ---
 <div align="center">
