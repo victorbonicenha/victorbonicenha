@@ -35,12 +35,12 @@ Busco consolidar minha atuação como **Automation & Data Engineer (Python)**, u
 
 </div>
 
-- 🐍 Python  
-- 🌐 Selenium | Playwright | Web Scraping  
-- 📊 SQL Server | Bancos de Dados  
-- 📩 Telegram Bots | Integração de APIs  
-- 🔐 Anti-Captcha API | OCR (EasyOCR)  
-- 🧠 IA e Automação Inteligente (OpenAI, LangChain, LangGraph, LangSmith)
+🐍 Python (automação, pipelines e scripts produtivos)
+🌐 RPA Web: Selenium | Playwright | PyAutoGUI
+🗄️ Bancos de Dados: SQL Server
+📩 Integrações: APIs REST | Telegram Bots
+🔐 Resolução de CAPTCHA e OCR: Anti-Captcha API | EasyOCR
+🧠 IA aplicada à automação: OpenAI | LangChain | LangGraph | LangSmith
 
 ---
 <div align="center">
