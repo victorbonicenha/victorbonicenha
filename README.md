@@ -51,23 +51,23 @@ Busco consolidar minha atuação como **Automation & Data Engineer (Python)**, u
 
 📌 Projetos em Destaque
 
-- **Nova_Branch-Cnd_IA**  
+- 🔗 **[Nova_Branch-Cnd_IA](https://github.com/victorbonicenha/Nova_Branch-Cnd_IA)**  
   Versão evoluída do robô de CNDs, utilizando **IA e OCR** no lugar de regex para leitura e análise inteligente de documentos fiscais.
 
-- **Treino_OpenIA**  
+- 🔗 **[Treino_OpenIA](https://github.com/victorbonicenha/Treino_OpenIA)**  
   Automação inteligente de Certidões de Dívida Ativa integrando **Selenium, OpenAI, LangGraph e LangSmith**.  
   O robô acessa o portal da **PGE-SP**, resolve CAPTCHAs, baixa certidões em PDF e extrai automaticamente dados fiscais (emissão, validade e horário), com **orquestração e rastreamento em tempo real**.
 
-- **Cnd_regex**  
+- 🔗 **[Cnd_regex](https://github.com/victorbonicenha/Cnd_regex)**  
   Automação de emissão de CNDs utilizando **Selenium + Regex** para extração estruturada de informações.
 
-- **Robo_MQB_TV**  
-  Automação de dashboards de produção (**MQB TV**) com **Playwright e PyAutoGUI**, focada em **monitoramento contínuo**.
+- 🔗 **[Robo_MQB_TV](https://github.com/victorbonicenha/Robo_MQB_TV)**  
+  Automação de dashboards de produção (**MQB TV**) com **Playwright e PyAutoGUI**, focada em monitoramento contínuo.
 
-- **Indicador_Volvo**  
+- 🔗 **[Indicador_Volvo](https://github.com/victorbonicenha/Indicador_Volvo)**  
   Robô que acessa portais da **Volvo**, gera relatórios em **PDF** e envia notificações e arquivos via **Telegram Bot**.
 
-- **Pyautogui_excel_automatico**  
+- 🔗 **[Pyautogui_excel_automatico](https://github.com/victorbonicenha/Pyautogui_excel_automatico)**  
   Automação de planilhas **Excel** com **PyAutoGUI**, realizando leitura de dados e preenchimento automático em sistemas legados.
 
 
