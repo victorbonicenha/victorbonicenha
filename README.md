@@ -26,6 +26,7 @@ Atuar no desenvolvimento de soluções que integrem **RPA, Dados e Inteligência
 Meu foco é evoluir na construção de automações que vão além da execução de tarefas, incorporando **análise de dados, persistência, monitoramento e IA aplicada** para tomada de decisão e tratamento de exceções.
 
 Busco consolidar minha atuação como **Automation & Data Engineer (Python)**, unindo automação de processos e engenharia de dados.
+
 ---
 
 <div align="center">
