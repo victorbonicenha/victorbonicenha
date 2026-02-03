@@ -21,10 +21,11 @@
 
 </div>
 
-Focado em **aprimorar conhecimentos e práticas em Inteligência Artificial (IA)**, explorando cada vez mais **integrações diversificadas com RPA, automação de processos e análise de dados**.  
-Busco criar soluções que unam **IA + RPA**, tornando os robôs mais **inteligentes, autônomos e eficientes**.  
-Além disso, pretendo **aprofundar meus estudos em desenvolvimento front-end**, criando uma base sólida para atuar de forma completa tanto no **back-end quanto no front-end**.  
+Atuar no desenvolvimento de soluções que integrem **RPA, Dados e Inteligência Artificial**, criando pipelines de automação mais inteligentes, escaláveis e resilientes.
 
+Meu foco é evoluir na construção de automações que vão além da execução de tarefas, incorporando **análise de dados, persistência, monitoramento e IA aplicada** para tomada de decisão e tratamento de exceções.
+
+Busco consolidar minha atuação como **Automation & Data Engineer (Python)**, unindo automação de processos e engenharia de dados.
 ---
 
 <div align="center">
