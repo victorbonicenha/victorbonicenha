@@ -16,8 +16,6 @@
 
 🧠 Utilizo **IA aplicada (OpenAI, LangChain, LangGraph, LlamaIndex, LangSmith)** para enriquecer pipelines, automatizar decisões, extrair informações não estruturadas (OCR/PDF) e tornar processos mais inteligentes e resilientes.
 
-📊 Experiência prática com construção de **pipelines de dados automatizados**, integrando coleta, processamento e persistência com foco em confiabilidade e escalabilidade.
-
 ---
 
 <div align="center">
