@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Python com foco em **automação de processos (RPA)** e em transição para **Engenharia de Dados**. Construo robôs e pipelines que operam em produção — com logs, retry, monitoramento e rastreabilidade.
+Desenvolvedor Python com foco em **automação de processos (RPA)** e em transição para **Engenharia de Dados**. Construo robôs e pipelines que operam em produção com logs, retry, monitoramento e rastreabilidade.
 
 Atuo com automação web (Playwright, Selenium), integração com SQL Server e APIs REST, e uso **IA aplicada** para enriquecer fluxos com extração inteligente de documentos, OCR e tomada de decisão automatizada.
 
@@ -24,7 +24,7 @@ Atualmente estudando **AWS** para evoluir na construção de pipelines de dados 
 
 ## 🎯 Objetivo
 
-Atuar como **Python Developer / Data Engineer**, desenvolvendo pipelines de dados robustos e soluções que integrem engenharia de dados, automação e IA — indo além da automação de tarefas para construir sistemas orientados a dados.
+Atuar como **Desenvolvedor Python / Engenheiro de Dados** *(Python Developer / Data Engineer)*, desenvolvendo pipelines de dados robustos e soluções que integrem engenharia de dados, automação e IA indo além da automação de tarefas para construir sistemas orientados a dados.
 
 ---
 
