@@ -11,9 +11,12 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 👨‍💻 Sobre mim
 
+<div align="center">
+  
 Desenvolvedor Python com foco em **automação de processos (RPA)** e em transição para **Engenharia de Dados**. Construo robôs e pipelines que operam em produção com logs, retry, monitoramento e rastreabilidade.
 
 Atuo com automação web (Playwright, Selenium), integração com SQL Server e APIs REST, e uso **IA aplicada** para enriquecer fluxos com extração inteligente de documentos, OCR e tomada de decisão automatizada.
@@ -21,16 +24,19 @@ Atuo com automação web (Playwright, Selenium), integração com SQL Server e A
 Atualmente estudando **AWS** para evoluir na construção de pipelines de dados em nuvem.
 
 ---
-
+<div align="center">
+  
 ## 🎯 Objetivo
+
+<div align="center">
 
 Atuar como **Desenvolvedor Python / Engenheiro de Dados** *(Python Developer / Data Engineer)*, desenvolvendo pipelines de dados robustos e soluções que integrem engenharia de dados, automação e IA indo além da automação de tarefas para construir sistemas orientados a dados.
 
 ---
+<div align="center">
 
 ## 🛠️ Stack
 
-<div align="center">
 
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,8 +66,11 @@ Atuar como **Desenvolvedor Python / Engenheiro de Dados** *(Python Developer / D
 </div>
 
 ---
+<div align="center">
 
 ## 📌 Projetos em Destaque
+
+</div>
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
@@ -74,7 +83,11 @@ Atuar como **Desenvolvedor Python / Engenheiro de Dados** *(Python Developer / D
 
 ---
 
+<div align="center">
+
 ## 📈 GitHub Stats
+
+</div>
 <div align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=victorbonicenha&theme=github-dark&hide_border=true" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorbonicenha&theme=github_dark" />
