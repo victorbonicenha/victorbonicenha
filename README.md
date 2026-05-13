@@ -17,11 +17,11 @@
 
 <div align="center">
 
-Desenvolvedor Python especializado em **RPA e Automação Inteligente**, com experiência em sistemas rodando em produção real — robôs com retry, monitoramento via Telegram e auto-recovery em ambientes Linux/Windows.
+Desenvolvedor Python especializado em **RPA e Automação Inteligente**, com experiência em sistemas rodando em produção real, robôs com retry, monitoramento via Telegram e auto-recovery em ambientes Linux/Windows.
 
 Uso **IA aplicada** (LangChain, LangGraph, OpenAI) para enriquecer fluxos com extração inteligente de documentos, OCR e tomada de decisão automatizada em pipelines fiscais, de qualidade e industriais.
 
-Em transição ativa para **Engenharia de Dados** — estudando PostgreSQL, dbt, AWS e orquestração de pipelines, com projetos práticos em construção.
+Em transição ativa para **Engenharia de Dados**, estudando PostgreSQL, dbt, AWS e orquestração de pipelines, com projetos práticos em construção.
 
 ---
 
