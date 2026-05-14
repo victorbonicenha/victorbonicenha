@@ -72,7 +72,7 @@ Atuar como **Desenvolvedor Python** ou **Engenheiro de Dados**, construindo sist
 |---|---|---|
 | [🤖Nova_Branch-Cnd_IA](https://github.com/victorbonicenha/Nova_Branch-Cnd_IA-) | Pipeline de extração de dados fiscais com IA + OCR — substitui regex por análise inteligente de documentos | `Playwright` `OpenAI` `OCR` `SQL Server` |
 | [🧠 Treino_OpenIA](https://github.com/victorbonicenha/Treino_OpenIA) | Pipeline completo: coleta web, resolução de CAPTCHA, extração de PDFs e rastreamento com LangGraph/LangSmith | `LangGraph` `LangSmith` `Playwright` `PyMuPDF` |
-| [📊 Robo_MQB_TV](https://github.com/victorbonicenha/Robo_MQB_TV) | Sistema de monitoramento contínuo de dashboards industriais com auto-recuperação de falhas e alertas Telegram | `Playwright` `Telegram` `Linux` `systemd` |
+| [📊 Robo_MQB_TV](https://github.com/victorbonicenha/Robo_MQB_TV) | Sistema de monitoramento contínuo de dashboards industriais OEE com auto-recuperação de falhas, dashboard web de métricas do servidor em tempo real e alertas Telegram | `Playwright`  `Flask`  `psutil`  `Python`  `Linux`  `systemd`  `Telegram` |
 | [📄 Indicador_Volvo](https://github.com/victorbonicenha/Indicador_Volvo) | Pipeline de geração e envio automático de relatórios em PDF com integração Telegram | `Python` `PDF` `Telegram` `SQL Server` |
 | [🔍 Cnd_regex](https://github.com/victorbonicenha/Cnd_regex) | Pipeline de automação com extração estruturada de dados via regex | `Python` `Playwright` `Regex` |
 | [⚙️rpa-documment-pipeline](https://github.com/victorbonicenha/rpa-document-pipeline) | Pipeline RPA completo com autenticação 2FA, download inteligente de documentos e ETL para SQL Server | `Selenium`  `Python`  `SQL Server`  `ETL`  `Telegram` |
