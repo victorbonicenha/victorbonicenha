@@ -75,7 +75,7 @@ Atuar como **Desenvolvedor Python** ou **Engenheiro de Dados**, construindo sist
 | [📊 Robo_MQB_TV](https://github.com/victorbonicenha/Robo_MQB_TV) | Sistema de monitoramento contínuo de dashboards industriais com auto-recuperação de falhas e alertas Telegram | `Playwright` `Telegram` `Linux` `systemd` |
 | [📄 Indicador_Volvo](https://github.com/victorbonicenha/Indicador_Volvo) | Pipeline de geração e envio automático de relatórios em PDF com integração Telegram | `Python` `PDF` `Telegram` `SQL Server` |
 | [🔍 Cnd_regex](https://github.com/victorbonicenha/Cnd_regex) | Pipeline de automação com extração estruturada de dados via regex | `Python` `Playwright` `Regex` |
-| [⚙️ Pyautogui_excel_automatico](https://github.com/victorbonicenha/Pyautogui_excel_automatico) | Automação de entrada e processamento de dados em sistemas legados | `PyAutoGUI` `Excel` `Python` |
+| [⚙️rpa-documment-pipeline](https://github.com/victorbonicenha/rpa-document-pipeline) | Automação de entrada e processamento de dados em sistemas legados | `PyAutoGUI` `Excel` `Python` |
 
 ---
 
