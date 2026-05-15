@@ -29,7 +29,7 @@ Em transição ativa para **Engenharia de Dados**, estudando PostgreSQL, dbt, AW
 
 <div align="center">
 
-Atuar como **Desenvolvedor Python** ou **Engenheiro de Dados**, construindo sistemas que integrem automação, IA e engenharia de dados — indo além da execução de tarefas para gerar inteligência e rastreabilidade nos processos.
+Atuar como **Desenvolvedor Python** ou **Engenheiro de Dados**, construindo sistemas que integrem automação, IA e engenharia de dados indo além da execução de tarefas para gerar inteligência e rastreabilidade nos processos.
 
 ## 🛠️ Stack
 
