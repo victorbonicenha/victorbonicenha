@@ -11,16 +11,16 @@
 </div>
 
 ---
-<div align="center">
-  
-## 👨‍💻 Sobre mim
 
 <div align="center">
+
+## 👨‍💻 Sobre mim
 
 🐍 Desenvolvedor Python — RPA, Automação Inteligente & IA Aplicada
 
 Construo robôs em produção real com Playwright e Selenium,
 rodando 24/7 em Linux com auto-recovery, alertas via Telegram e retry real.
+**5+ robôs em produção · 2 clientes industriais · ~4h/dia eliminadas por cliente · 99% uptime**
 
 🤖 IA aplicada em pipelines de automação:
 LangChain · LangGraph · OpenAI API · RAG · Extração Híbrida (Regex + LLM) · OCR
@@ -32,17 +32,26 @@ Azure Data Factory · Azure Databricks · Data Lake (ADLS Gen2) · AWS S3 · Par
 ⚙️ Stack atual em produção:
 Python · Playwright · Selenium · systemd · PyArmor · Fernet · Telegram Bot API
 
-🏗️ Construindo pipelines reais
+🏗️ Construindo pipelines reais.
+
+</div>
+
 ---
 
-## 🎯 Objetivo
-
 <div align="center">
+
+## 🎯 Objetivo
 
 Atuar como Desenvolvedor Python ou Engenheiro de Dados construindo sistemas
 que integrem RPA, IA aplicada e pipelines de dados em produção transformando
 processos operacionais em fluxos inteligentes, rastreáveis e escaláveis com
 Playwright, LangChain, Databricks, Azure e AWS.
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🛠️ Stack
 
@@ -86,6 +95,20 @@ Playwright, LangChain, Databricks, Azure e AWS.
 </div>
 
 ---
+
+<div align="center">
+
+## 📚 Estudando atualmente
+
+![Databricks](https://img.shields.io/badge/Databricks_Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![DP-203](https://img.shields.io/badge/Azure_DP--203-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt_Analytics_Engineering-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+</div>
+
+---
+
 <div align="center">
 
 ## 📌 Projetos em Destaque
@@ -94,12 +117,12 @@ Playwright, LangChain, Databricks, Azure e AWS.
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [🤖Nova_Branch-Cnd_IA](https://github.com/victorbonicenha/Nova_Branch-Cnd_IA-) | Pipeline de extração de dados fiscais com IA + OCR — substitui regex por análise inteligente de documentos | `Playwright` `OpenAI` `OCR` `SQL Server` |
+| [🤖 Nova_Branch-Cnd_IA](https://github.com/victorbonicenha/Nova_Branch-Cnd_IA-) | Pipeline de extração de dados fiscais com IA + OCR — substitui regex por análise inteligente de documentos | `Playwright` `OpenAI` `OCR` `SQL Server` |
 | [🧠 Treino_OpenIA](https://github.com/victorbonicenha/Treino_OpenIA) | Pipeline completo: coleta web, resolução de CAPTCHA, extração de PDFs e rastreamento com LangGraph/LangSmith | `LangGraph` `LangSmith` `Playwright` `PyMuPDF` |
-| [📊 Robo_MQB_TV](https://github.com/victorbonicenha/Robo_MQB_TV) | Sistema de monitoramento contínuo de dashboards industriais OEE com auto-recuperação de falhas, dashboard web de métricas do servidor em tempo real e alertas Telegram | `Playwright`  `Flask`  `psutil`  `Python`  `Linux`  `systemd`  `Telegram` |
+| [📊 Robo_MQB_TV](https://github.com/victorbonicenha/Robo_MQB_TV) | Sistema de monitoramento contínuo de dashboards industriais OEE com auto-recovery, dashboard web de métricas em tempo real e alertas Telegram | `Playwright` `Flask` `psutil` `Linux` `systemd` `Telegram` |
 | [📄 Indicador_Volvo](https://github.com/victorbonicenha/Indicador_Volvo) | Pipeline de geração e envio automático de relatórios em PDF com integração Telegram | `Python` `PDF` `Telegram` `SQL Server` |
 | [🔍 Cnd_regex](https://github.com/victorbonicenha/Cnd_regex) | Pipeline de automação com extração estruturada de dados via regex | `Python` `Playwright` `Regex` |
-| [⚙️rpa-documment-pipeline](https://github.com/victorbonicenha/rpa-document-pipeline) | Pipeline RPA completo com autenticação 2FA, download inteligente de documentos e ETL para SQL Server | `Selenium`  `Python`  `SQL Server`  `ETL`  `Telegram` |
+| [⚙️ rpa-document-pipeline](https://github.com/victorbonicenha/rpa-document-pipeline) | Pipeline RPA end-to-end com autenticação MFA/TOTP, download controlado de documentos, ETL com Pandas e carga em SQL Server para BI | `Selenium` `Python` `Pandas` `SQL Server` `ETL` `Telegram` |
 
 ---
 
@@ -107,10 +130,9 @@ Playwright, LangChain, Databricks, Azure e AWS.
 
 ## 📈 GitHub Stats
 
-</div>
-<div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=victorbonicenha&theme=github-dark&hide_border=true" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorbonicenha&theme=github_dark" />
+<img height="160" src="https://streak-stats.demolab.com?user=victorbonicenha&theme=github-dark&hide_border=true" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorbonicenha&theme=github_dark" />
+
 </div>
 
 ---
