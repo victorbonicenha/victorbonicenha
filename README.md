@@ -17,26 +17,39 @@
 
 <div align="center">
 
-Desenvolvedor Python especializado em **RPA e Automação Inteligente**, com experiência em sistemas rodando em produção real, robôs com retry, monitoramento via Telegram e auto-recovery em ambientes Linux/Windows.
+🐍 Desenvolvedor Python — RPA, Automação Inteligente & IA Aplicada
 
-Uso **IA aplicada** (LangChain, LangGraph, OpenAI) para enriquecer fluxos com extração inteligente de documentos, OCR e tomada de decisão automatizada em pipelines fiscais, de qualidade e industriais.
+Construo robôs em produção real com Playwright e Selenium,
+rodando 24/7 em Linux com auto-recovery, alertas via Telegram e retry real.
 
-Em transição ativa para **Engenharia de Dados**, estudando PostgreSQL, dbt, AWS e orquestração de pipelines, com projetos práticos em construção.
+🤖 IA aplicada em pipelines de automação:
+LangChain · LangGraph · OpenAI API · RAG · Extração Híbrida (Regex + LLM) · OCR
 
+📊 Em transição ativa para Engenharia de Dados:
+SQL Server · PostgreSQL · Pandas · PySpark · dbt · Airflow · Delta Lake
+Azure Data Factory · Azure Databricks · Data Lake (ADLS Gen2) · AWS S3 · Parquet
+
+⚙️ Stack atual em produção:
+Python · Playwright · Selenium · systemd · PyArmor · Fernet · Telegram Bot API
+
+🏗️ Construindo pipelines reais
 ---
 
 ## 🎯 Objetivo
 
 <div align="center">
 
-Atuar como **Desenvolvedor Python** ou **Engenheiro de Dados**, construindo sistemas que integrem automação, IA e engenharia de dados indo além da execução de tarefas para gerar inteligência e rastreabilidade nos processos.
+Atuar como Desenvolvedor Python ou Engenheiro de Dados construindo sistemas
+que integrem RPA, IA aplicada e pipelines de dados em produção transformando
+processos operacionais em fluxos inteligentes, rastreáveis e escaláveis com
+Playwright, LangChain, Databricks, Azure e AWS.
 
 ## 🛠️ Stack
-
 
 ### Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### RPA & Automação Web
@@ -44,19 +57,30 @@ Atuar como **Desenvolvedor Python** ou **Engenheiro de Dados**, construindo sist
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Engenharia de Dados
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![ETL](https://img.shields.io/badge/Pipelines_ETL-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_(studying)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ### IA Aplicada
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Engenharia de Dados
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)
+
+### Cloud
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![ADLS Gen2](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Infraestrutura
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 </div>
