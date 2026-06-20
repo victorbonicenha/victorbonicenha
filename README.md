@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-🐍 Desenvolvedor Python — RPA, Automação Inteligente & IA Aplicada
+🐍 Desenvolvedor Python RPA, Automação Inteligente & IA Aplicada
 
 Construo robôs em produção real com Playwright e Selenium,
 rodando 24/7 em Linux com auto-recovery, alertas via Telegram e retry real.
