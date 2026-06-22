@@ -121,7 +121,7 @@ Playwright, LangChain, Databricks, Azure e AWS.
 | [🧠Projeto_OpenIA_Langs](https://github.com/victorbonicenha/Treino_OpenIA) | Pipeline completo: coleta web, resolução de CAPTCHA, extração de PDFs e rastreamento com LangGraph/LangSmith | `LangGraph` `LangSmith` `Playwright` `PyMuPDF` |
 | [📊rpa-oee-dashboard-monitor](https://github.com/victorbonicenha/Robo_MQB_TV) | Sistema de monitoramento contínuo de dashboards industriais OEE com auto-recovery, dashboard web de métricas em tempo real e alertas Telegram | `Playwright` `Flask` `psutil` `Linux` `systemd` `Telegram` |
 | [📄 Indicador_Volvo](https://github.com/victorbonicenha/Indicador_Volvo) | Pipeline de geração e envio automático de relatórios em PDF com integração Telegram | `Python` `PDF` `Telegram` `SQL Server` |
-| [🔍 Cnd_regex](https://github.com/victorbonicenha/Cnd_regex) | Pipeline de automação com extração estruturada de dados via regex | `Python` `Playwright` `Regex` |
+| [🔍extracao-cnd-regex](https://github.com/victorbonicenha/Cnd_regex) | Pipeline de automação com extração estruturada de dados via regex | `Python` `Playwright` `Regex` |
 | [⚙️ rpa-document-pipeline](https://github.com/victorbonicenha/rpa-document-pipeline) | Pipeline RPA end-to-end com autenticação MFA/TOTP, download controlado de documentos, ETL com Pandas e carga em SQL Server para BI | `Selenium` `Python` `Pandas` `SQL Server` `ETL` `Telegram` |
 
 ---
