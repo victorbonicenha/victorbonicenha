@@ -117,7 +117,7 @@ Playwright, LangChain, Databricks, Azure e AWS.
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [🤖 Nova_Branch-Cnd_IA](https://github.com/victorbonicenha/Nova_Branch-Cnd_IA-) | Pipeline de extração de dados fiscais com IA + OCR — substitui regex por análise inteligente de documentos | `Playwright` `OpenAI` `OCR` `SQL Server` |
+| [🤖cnd-extractor-llm](https://github.com/victorbonicenha/Nova_Branch-Cnd_IA-) | Pipeline de extração de dados fiscais com IA + OCR — substitui regex por análise inteligente de documentos | `Playwright` `OpenAI` `OCR` `SQL Server` |
 | [🧠 Treino_OpenIA](https://github.com/victorbonicenha/Treino_OpenIA) | Pipeline completo: coleta web, resolução de CAPTCHA, extração de PDFs e rastreamento com LangGraph/LangSmith | `LangGraph` `LangSmith` `Playwright` `PyMuPDF` |
 | [📊 Robo_MQB_TV](https://github.com/victorbonicenha/Robo_MQB_TV) | Sistema de monitoramento contínuo de dashboards industriais OEE com auto-recovery, dashboard web de métricas em tempo real e alertas Telegram | `Playwright` `Flask` `psutil` `Linux` `systemd` `Telegram` |
 | [📄 Indicador_Volvo](https://github.com/victorbonicenha/Indicador_Volvo) | Pipeline de geração e envio automático de relatórios em PDF com integração Telegram | `Python` `PDF` `Telegram` `SQL Server` |
