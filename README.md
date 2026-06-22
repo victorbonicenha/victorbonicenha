@@ -214,6 +214,10 @@ Minha experiência com RPA e automações em produção tem sido uma base import
 <img height="160" src="https://streak-stats.demolab.com?user=victorbonicenha&theme=github-dark&hide_border=true" />
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorbonicenha&theme=github_dark" />
 
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorbonicenha&theme=github_dark" />
+
 </div>
 
 ---
